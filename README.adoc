@@ -1,3 +1,3 @@
-= XYZ Reader Starter Code
+# XYZReader
 
-This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
+### XYZReader application lets you read some of the famous books in the worlds.The application's user interface is very pleasing to the eye.
