@@ -1,2 +1,2 @@
 # XYZReader
-### XYZReader application lets you read some of the famous books in the worlds.The application's user interface is very pleasing to the eye. 
+### XYZReader application lets you read some of the famous books in the worlds.The application's user interface is very pleasing to the eye
